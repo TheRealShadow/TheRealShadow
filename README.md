@@ -3,7 +3,7 @@
 - 📜 I find it a lot of fun to create some code for telegram bots🤖
 - 💬 Ask me about current projects which I work on.
 - 🤔 I’m looking for help with python multiprocessing over multiple files and sharing the database connection
-- 📫 How to reach me: shadowscodes@gmail.com or on discord TheRealShadow#9061
+- 📫 How to reach me: shadowscodes@gmail.com, [Telegram @TheRealShadow](https://t.me/TheRealShadow) or on discord TheRealShadow#9061
 
 ### Telegram:
 - My Channel: [@AShadowsTale](https://t.me/AShadowsTale)
