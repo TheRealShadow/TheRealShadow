@@ -6,9 +6,9 @@
 - 📫 How to reach me: shadowscodes@gmail.com or on discord TheRealShadow#9061
 
 ### Telegram:
-My Channel: @AShadowsTale
-EmpireConquestBlog: @EmpireConquest
-_redacted_: @
+- My Channel: @AShadowsTale
+- EmpireConquestBlog: @EmpireConquest
+- _redacted_: @
 
 
 <!--
