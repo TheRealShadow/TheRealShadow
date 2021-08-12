@@ -5,6 +5,10 @@
 - 🤔 I’m looking for help with python multiprocessing over multiple files and sharing the database connection
 - 📫 How to reach me: shadowscodes@gmail.com or on discord TheRealShadow#9061
 
+### Telegram:
+My Channel: @AShadowsTale
+EmpireConquestBlog: @EmpireConquest
+_redacted_: @
 
 
 <!--
