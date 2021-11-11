@@ -8,7 +8,6 @@
 ### Telegram:
 - My Channel: [@AShadowsTale](https://t.me/AShadowsTale)
 - My Coding Channel: [@ShadowsCodesBlog](https://t.me/ShadowsCodesBlog)
-- EmpireConquestBlog: [@EmpireConquest](https://t.me/EmpireConquest)
 
 
 <!--
