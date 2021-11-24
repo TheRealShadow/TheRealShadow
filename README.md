@@ -7,7 +7,7 @@
 
 ### Telegram:
 - My Channel: [@AShadowsTale](https://t.me/AShadowsTale)
-- My Coding Channel: [@ShadowsCodesBlog](https://t.me/ShadowsCodesBlog)
+- My Organisation Channel: [@ShadowsCodesBlog](https://t.me/ShadowsCodesBlog)
 
 
 <!--
