@@ -1,8 +1,5 @@
 ### Hello there👀
-- 🖥️ I'm @TheRealShadow, a hobby Python developer in the free time and in the business times a 3rd line Technical Application manager.
-- 📜 I find it a lot of fun to create some code for telegram bots🤖
-- 💬 Ask me about current projects which I work on.
-- 🤔 I’m looking for help with python multiprocessing over multiple files and sharing the database connection
+- 🖥️ I'm @TheRealShadow, a hobby Python developer in the free time.
 - 📫 How to reach me: shadowscodes@gmail.com, [Telegram @TheRealShadow](https://t.me/TheRealShadow) or on discord TheRealShadow#9061
 
 ### Telegram:
